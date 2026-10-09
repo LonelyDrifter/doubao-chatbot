@@ -1,0 +1,11 @@
+# 敏感文件
+.env
+
+# Python
+__pycache__/
+*.py[cod]
+venv/
+.venv/
+
+# Streamlit 缓存
+.streamlit/secrets.toml
